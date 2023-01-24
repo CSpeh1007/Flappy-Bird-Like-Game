@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    text-align: center;
+
+}
+
+html{
+    background-color: lightgray;
+}
+
+#rectangle{
+    width: 1520px;
+    height: 500px;
+    background: lightskyblue;
+}
